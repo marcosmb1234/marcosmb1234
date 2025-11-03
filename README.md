@@ -29,7 +29,7 @@
 
 
 <div align="left">
-  <a href="https://github.com/marcosmb1234](https://www.salesforce.com/trailblazer/tad9ada6tnlg6a7ty3" target="_blank" style="text-decoration:none; outline:none;">
+  <a href="https://www.salesforce.com/trailblazer/tad9ada6tnlg6a7ty3" target="_blank" style="text-decoration:none; outline:none;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="32" alt="salesforce logo" style="border:0; vertical-align:middle; display:inline-block;" />
   </a>
   <img width="12" />
