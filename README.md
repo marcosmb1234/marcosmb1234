@@ -23,7 +23,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="32" alt="salesforce logo"  />
+  <a href="mailto:marcosviniciosbot200725@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="32" alt="salesforce logo"  />
+  </a>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="32" alt="c logo"  />
   <img width="12" />
@@ -75,12 +77,3 @@
   </a>
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/marcosmb1234/marcosmb1234/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/marcosmb1234/marcosmb1234/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/marcosmb1234/marcosmb1234/output/pacman-contribution-graph.svg">
-</picture>
-
-###
