@@ -22,8 +22,8 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:marcosviniciosbot200725@gmail.com" target="_blank">
+<div align="left" style="pointer-events: none;">
+  <a href="https://www.salesforce.com/trailblazer/tad9ada6tnlg6a7ty3" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/salesforce/salesforce-original.svg" height="32" alt="salesforce logo"  />
   </a>
   <img width="12" />
@@ -44,7 +44,7 @@
 
 ###
 
-<div align="left">
+<div align="left" style="pointer-events: none;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
